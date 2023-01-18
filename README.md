@@ -1,5 +1,6 @@
 ﻿# YouTube Organizer
-
+ 
+ ![demo](https://github.com/andrewhsugithub/YouTube-Organizer/blob/master/demo.png)
 An app that helps you organize your personal YouTube channel. There's a lot of functions like moving/deleting/creating a playlist/video and much more.
 
 # How to use it?
